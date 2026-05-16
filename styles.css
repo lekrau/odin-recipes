@@ -75,6 +75,18 @@ img {
     border-radius: 15px;
 }
 
+#nav {
+    display: block;
+    box-shadow: none;
+    padding: 13px;
+    border-radius: 10px;
+    list-style: none;
+}
+
+#nav li {
+    text-align: center;
+}
+
 .steps-list {
     max-width: 300px;
 }
